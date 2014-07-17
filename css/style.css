@@ -33,6 +33,7 @@
 		letter-spacing: 0.5px;
 	}
 
+
 	h1,h2,h3,h4,h5,h6 {
 		font-family: 'Crete Round', sans-serif;
 		font-weight: 400;
@@ -113,6 +114,20 @@
 	br.clear {
 		clear: both;
 	}
+
+	/* Custom Codes */
+
+	.inputlogin {
+		/*font-family: 'Source Sans Pro', sans-serif;*/
+		font-family: 'Open Sans', sans-serif;
+		font-weight: 300;
+		font-size: 10pt;
+		line-height: 1.75em;
+		color: #39454b;
+		letter-spacing: 0.5px;
+	}
+
+	/* End Custom Codes */
 
 	/* Sections/Articles */
 	
